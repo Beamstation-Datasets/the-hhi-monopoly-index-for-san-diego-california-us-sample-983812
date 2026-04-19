@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for San Diego, California, US",
-  "export_job_id": "ef28345c-490e-4708-a0bd-b95e2eecf8cf",
+  "export_job_id": "756802ee-f1bf-4d8e-8794-47c8e59a50a1",
   "github_org": "Beamstation-Datasets",
   "id_short": 983812,
   "location_name": "San Diego",
   "location_type": "city",
   "repo_name": "the-hhi-monopoly-index-for-san-diego-california-us-sample-983812",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/983812/beamstation_983812_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 8.11,
+  "sample_pct": 9.09,
   "sample_records": 6,
   "sample_sha256": "3abdd1cb0d1918b078d4cd91a21457ca81daa72b2115a3ca49052db28d9c0fd0",
   "sample_size_bytes": 40457,
-  "total_records": 74,
-  "updated_at": "2026-04-08T00:18:06.916497+00:00"
+  "total_records": 66,
+  "updated_at": "2026-04-15T05:58:26.893769+00:00"
 }
