@@ -1,12 +1,12 @@
 {
-  "export_job_id": "756802ee-f1bf-4d8e-8794-47c8e59a50a1",
+  "export_job_id": "31e42e3e-a8ec-48d7-9ab2-581fed99c94f",
   "id_short": 983812,
-  "published_at": "2026-04-19T07:10:02Z",
+  "published_at": "2026-04-23T07:30:37Z",
   "repo_name": "the-hhi-monopoly-index-for-san-diego-california-us-sample-983812",
   "sample_asset_name": "beamstation_983812_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/983812/beamstation_983812_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 6,
-  "sample_sha256": "3abdd1cb0d1918b078d4cd91a21457ca81daa72b2115a3ca49052db28d9c0fd0",
-  "sample_size_bytes": 40457,
-  "total_records": 66
+  "sample_sha256": "95d275efcc869376a364a51c0eda554e5e77506058e73197d3b10e632fa9edec",
+  "sample_size_bytes": 40484,
+  "total_records": 60
 }
